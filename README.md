@@ -10,11 +10,11 @@
 
 ## 🔨 Currently building
 
-**TradeArena** - a multiplayer stock-market trading game: simulated prices, an order book with a matching engine, and players trading with each other in real time.
+**[TradeArena](https://github.com/piotr-kaczmarski-java-dev/TradeArena)** - a multiplayer stock-market trading game: simulated prices, an order book with a matching engine, and players trading with each other in real time.
 Java 21 · Spring Boot 3 · Kafka · PostgreSQL · Testcontainers · Kubernetes · Terraform on AWS · Angular.
 The hard parts (matching engine, Kafka consumers, transactions, tests) I write myself; Claude Code helps with the rest, and the repo documents the split.
 
-[TradeArena](https://github.com/piotr-kaczmarski-java-dev/TradeArena)
+
 
 ## 🧰 Tech
 
