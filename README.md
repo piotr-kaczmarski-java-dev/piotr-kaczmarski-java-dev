@@ -14,7 +14,7 @@
 Java 21 · Spring Boot 3 · Kafka · PostgreSQL · Testcontainers · Kubernetes · Terraform on AWS · Angular.
 The hard parts (matching engine, Kafka consumers, transactions, tests) I write myself; Claude Code helps with the rest, and the repo documents the split.
 
-*(repo coming soon)*
+[TradeArena](https://github.com/piotr-kaczmarski-java-dev/TradeArena)
 
 ## 🧰 Tech
 
